@@ -32,6 +32,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft.Maker.Serial", "r
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.IoT.Demos.Utils", "ST.IoT.Demos.Utils\ST.IoT.Demos.Utils.csproj", "{B02C2AEA-16D6-4249-AC20-F89B8863E243}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slides", "Slides", "{61E9D72B-D7D4-459F-BE1A-9A8A35F9268D}"
+	ProjectSection(SolutionItems) = preProject
+		Slides\Code Camp 2015.pptx = Slides\Code Camp 2015.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
